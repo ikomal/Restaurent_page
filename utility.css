@@ -1,0 +1,90 @@
+.btn1{
+    margin-right: 0rem;
+    width: 100%;
+    margin-top: -.8rem;
+}
+.link
+{
+    text-decoration: none;
+    color: white;
+    margin-top: 1.4rem;
+}
+.active
+{
+    color: var(--yellow-shade);
+}
+.link1
+{
+    text-decoration: none;
+    color: white;
+    
+}
+
+.order .icon
+{
+    font-size: 1rem;
+}
+.link:hover{
+    color: var(--yellow-shade);
+}
+.btn
+:hover{
+    background-color: var(--yellow-shade);
+}
+.bg
+{
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+.btn2
+{
+    width: 70%;
+    /* height: 30%; */
+}
+.menu
+{
+    margin-top: 4rem;
+}
+.link2
+{
+    text-decoration: none;
+    color: white;
+    padding-top: 1rem;
+}
+.price .icon
+{
+    margin-right: 1rem;
+    /* color: var(--yellow-color); */
+
+}
+.price .icon i{
+    padding-left: .8rem;
+    padding-bottom: .5rem;
+}
+
+#imgg2
+{
+    width: 50%;
+    padding-top: 2rem;
+}
+#imgg3
+{
+    width: 40%;
+    padding-top: 1.2rem;
+}
+.btn3
+{
+    width: 18%;
+    margin-top: 4rem;
+    /* transform: scale(2) */
+    
+}
+.price a{
+    background-color: var(--yellow-color);
+    border-radius: 50%;
+    width: 3rem;
+    margin-bottom: 1.2rem;
+}
+
